@@ -1,45 +1,45 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Redação",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
+        "text": "Aprenda a Escrever Redação",
         "url": "https://www.alura.com.br/cursos-online-front-end"
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "Como Escrever Redação modelo Enem",
+          "url": "https://youtu.be/PYGzF4b0Kbk"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "COMO ESCREVER REDAÇÃO DO ENEM TEORIA E PRÁTICA",
+          "url": "https://youtu.be/tZzwsR1Ve2A"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "TEMAS PARA A REDAÇÃO DO ENEM 2020!",
+          "url": "https://youtu.be/cQpY6GQe2a4"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "COMO ESCREVER A REDAÇÃO PERFEITA NO ENEM?",
+          "url": "https://youtu.be/kx_r8NXD6GA"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "ALUSÕES HISTÓRICAS PARA TODOS OS TEMAS DE REDAÇÃO!",
+          "url": "https://youtu.be/jDIfwLJEOXI"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "Análise de uma redação nota 1000 do ENEM 2017 ",
+          "url": "https://youtu.be/FICygh6K7o8"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "O CORRETOR SINCERÃO | Organize a Argumentação ",
+          "url": "https://youtu.be/dmEwxfX5XEA"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "FRASES PRONTAS E FORMAS DE COMEÇAR A SUA REDAÇÃO",
+          "url": "https://youtu.be/JtkZCq-uhBs"
         }        
       ]
     },
