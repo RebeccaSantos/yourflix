@@ -4,11 +4,8 @@
       "titulo": "Redação",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#6BD1FF",
-      "link_extra": {
-        "text": "Aprenda a Escrever Redação",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
-      },
       "videos": [
+
         {
           "titulo": "Como Escrever Redação modelo Enem",
           "url": "https://youtu.be/PYGzF4b0Kbk"
@@ -44,140 +41,126 @@
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Exatas",
       "cor": "#00C86F",
-      "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
-      },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "O QUE MAIS CAI EM MATEMÁTICA NO ENEM? ",
+          "url": "https://youtu.be/myS0xE4XMJc"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "Como acertar MAIS QUESTÕES DE MATEMÁTICA no Enem?",
+          "url": "https://youtu.be/kx_kRtRogfs"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "COMO ESTUDAR EXATAS PARA O ENEM",
+          "url": "https://youtu.be/E8DHj2RZX1w"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "MACETES para o ENEM de EXATAS: Matemática",
+          "url": "https://youtu.be/T9zU-M5erQQ"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
+          "titulo": "RESOLVENDO MATEMÁTICA DO ENEM 2018",
+          "url": "https://youtu.be/kqERtmuoZWg"
         }
       ]
     },
     {
-      "titulo": "Data Science e Inteligência Artificial",
+      "titulo": "Ciências da Natureza",
       "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
+       "videos": [
         {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
+          "titulo": "Dicas para estudar CIÊNCIAS DA NATUREZA",
+          "url": "https://youtu.be/VlCOFHZ7Y-0"
         },
         {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
+          "titulo": "AS DOENÇAS QUE MAIS CAEM NO ENEM",
+          "url": "https://youtu.be/nc2Z5e85x7o"
         },
         {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
+          "titulo": "ECOLOGIA: CADEIA ALIMENTAR, BIOMAS E RELAÇÕES ECOLÓGICAS ",
+          "url": "https://youtu.be/TsclSi3nNsI"
         },
         {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
+          "titulo": "RESUMÃO DA ECOLOGIA ",
+          "url": "https://youtu.be/DRtI_j5cPvQ"
         }
       ]
     },
     {
-      "titulo": "Filmes",
+      "titulo": "Humanas",
       "cor": "orange",
       "videos": [
         {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
+          "titulo": "Como VOCÊ deve estudar HUMANAS para o ENEM ",
+          "url": "https://youtu.be/EbtdVtEmgBQ"
         },
         {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
+          "titulo": "VEJA ESSE VÍDEO ANTES DA PROVA DE HUMANAS DO ENEM",
+          "url": "https://youtu.be/VG9xVK6pM5o"
         },
         {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
+          "titulo": "REVISÃO ENEM | FILOSOFIA E SOCIOLOGIA: MOVIMENTOS SOCIAIS ",
+          "url": "https://youtu.be/nu505BvywsU"
         },
         {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "REVISÃO COMPLETA PARA O ENEM 2020",
+          "url": "https://youtu.be/ka2w_C8rJfQ"
         }
       ]
     },
     {
-      "titulo": "Games",
+      "titulo": "Documentários",
       "cor": "red",
-      "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
-      },
+
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Food Inc.",
+          "url": "https://youtu.be/smk2xq2l3Ig?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Obsolescência Programada - The Light bulb Conspiracy",
+          "url": "https://youtu.be/H7EUyuNNaCU?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Doing Time Doing Vipassana",
+          "url": "https://youtu.be/WkxSyv5R1sg?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Super Alimentado - Açucar",
+          "url": "https://youtu.be/oRzFmxhZkQ0?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Citizenfour (multi-lang!)",
+          "url": "https://youtu.be/EDhB-A23IUk?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
         }
       ]
     },
     {
-      "titulo": "Aprendendo a aprender tecnologia",
+      "titulo": "Dicas de Estudo",
       "cor": "#6b5be2",
-      "link_extra": {
-        "text": "Curso sobre aprendizado na Alura",
-        "url": "https://alura.com.br/curso-online-aprender-a-aprender-tecnicas-para-seu-autodesenvolvimento"
-      },
+  
       "videos": [
         {
-          "titulo": "Como estudar melhor?",
-          "url": "https://www.youtube.com/watch?v=Is6c9KSGCbk&feature=youtu.be"
+          "titulo": "COMO ESTUDAR EM CASA PARA O ENEM",
+          "url": "https://youtu.be/rpaiAZQEuok"
         },
         {
-          "titulo": "Faculdade",
-          "url": "https://www.youtube.com/watch?v=jw06H8esyzQ&feature=youtu.be"
+          "titulo": "5 dicas que FUNCIONAM para começar a estudar para o ENEM",
+          "url": "https://youtu.be/A9X-tHB7vyI"
         },
         {
-          "titulo": "Frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
+          "titulo": "Qual o segredo de passar em Medicina na USP?",
+          "url": "https://youtu.be/ozedlV260ds"
         },
         {
-          "titulo": "A mágica do Aprendizado",
-          "url": "https://www.youtube.com/watch?v=oTEXzpfEpPY"
+          "titulo": "CRONOGRAMA DE ESTUDOS ENEM ",
+          "url": "https://youtu.be/Hjm9jmaWX3w"
         },
         {
-          "titulo": "Como aprender a programar?",
-          "url": "https://www.youtube.com/watch?v=MwCx2qKdbDw&feature=youtu.be"
+          "titulo": "COMO ORGANIZAR OS ESTUDOS ",
+          "url": "https://youtu.be/utELo4oEHjo"
         }
       ]
     }
