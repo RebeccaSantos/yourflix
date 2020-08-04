@@ -1,168 +1,222 @@
 {
   "categorias": [
     {
+      "id": 1,
       "titulo": "Redação",
-      "link": "https://www.alura.com.br/formacao-front-end",
-      "cor": "#6BD1FF",
-      "videos": [
-
-        {
-          "titulo": "Como Escrever Redação modelo Enem",
-          "url": "https://youtu.be/PYGzF4b0Kbk"
-        },
-        {
-          "titulo": "COMO ESCREVER REDAÇÃO DO ENEM TEORIA E PRÁTICA",
-          "url": "https://youtu.be/tZzwsR1Ve2A"
-        },
-        {
-          "titulo": "TEMAS PARA A REDAÇÃO DO ENEM 2020!",
-          "url": "https://youtu.be/cQpY6GQe2a4"
-        },
-        {
-          "titulo": "COMO ESCREVER A REDAÇÃO PERFEITA NO ENEM?",
-          "url": "https://youtu.be/kx_r8NXD6GA"
-        },
-        {
-          "titulo": "ALUSÕES HISTÓRICAS PARA TODOS OS TEMAS DE REDAÇÃO!",
-          "url": "https://youtu.be/jDIfwLJEOXI"
-        },
-        {
-          "titulo": "Análise de uma redação nota 1000 do ENEM 2017 ",
-          "url": "https://youtu.be/FICygh6K7o8"
-        },
-        {
-          "titulo": "O CORRETOR SINCERÃO | Organize a Argumentação ",
-          "url": "https://youtu.be/dmEwxfX5XEA"
-        },
-        {
-          "titulo": "FRASES PRONTAS E FORMAS DE COMEÇAR A SUA REDAÇÃO",
-          "url": "https://youtu.be/JtkZCq-uhBs"
-        }        
-      ]
+      "cor": "#6BD1FF"
     },
     {
+      "id": 2,
       "titulo": "Exatas",
-      "cor": "#00C86F",
-      "videos": [
-        {
-          "titulo": "O QUE MAIS CAI EM MATEMÁTICA NO ENEM? ",
-          "url": "https://youtu.be/myS0xE4XMJc"
-        },
-        {
-          "titulo": "Como acertar MAIS QUESTÕES DE MATEMÁTICA no Enem?",
-          "url": "https://youtu.be/kx_kRtRogfs"
-        },
-        {
-          "titulo": "COMO ESTUDAR EXATAS PARA O ENEM",
-          "url": "https://youtu.be/E8DHj2RZX1w"
-        },
-        {
-          "titulo": "MACETES para o ENEM de EXATAS: Matemática",
-          "url": "https://youtu.be/T9zU-M5erQQ"
-        }, 
-        {
-          "titulo": "RESOLVENDO MATEMÁTICA DO ENEM 2018",
-          "url": "https://youtu.be/kqERtmuoZWg"
-        }
-      ]
+      "cor": "#00C86F"
     },
     {
+      "id": 3,
       "titulo": "Ciências da Natureza",
-      "cor": "#9cd33b",
-       "videos": [
-        {
-          "titulo": "Dicas para estudar CIÊNCIAS DA NATUREZA",
-          "url": "https://youtu.be/VlCOFHZ7Y-0"
-        },
-        {
-          "titulo": "AS DOENÇAS QUE MAIS CAEM NO ENEM",
-          "url": "https://youtu.be/nc2Z5e85x7o"
-        },
-        {
-          "titulo": "ECOLOGIA: CADEIA ALIMENTAR, BIOMAS E RELAÇÕES ECOLÓGICAS ",
-          "url": "https://youtu.be/TsclSi3nNsI"
-        },
-        {
-          "titulo": "RESUMÃO DA ECOLOGIA ",
-          "url": "https://youtu.be/DRtI_j5cPvQ"
-        }
-      ]
+      "cor": "#9cd33b"
     },
     {
+      "id": 4,
       "titulo": "Humanas",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Como VOCÊ deve estudar HUMANAS para o ENEM ",
-          "url": "https://youtu.be/EbtdVtEmgBQ"
-        },
-        {
-          "titulo": "VEJA ESSE VÍDEO ANTES DA PROVA DE HUMANAS DO ENEM",
-          "url": "https://youtu.be/VG9xVK6pM5o"
-        },
-        {
-          "titulo": "REVISÃO ENEM | FILOSOFIA E SOCIOLOGIA: MOVIMENTOS SOCIAIS ",
-          "url": "https://youtu.be/nu505BvywsU"
-        },
-        {
-          "titulo": "REVISÃO COMPLETA PARA O ENEM 2020",
-          "url": "https://youtu.be/ka2w_C8rJfQ"
-        }
-      ]
+      "cor": "orange"
     },
     {
+      "id": 5,
       "titulo": "Documentários",
-      "cor": "red",
-
-      "videos": [
-        {
-          "titulo": "Food Inc.",
-          "url": "https://youtu.be/smk2xq2l3Ig?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
-        },
-        {
-          "titulo": "Obsolescência Programada - The Light bulb Conspiracy",
-          "url": "https://youtu.be/H7EUyuNNaCU?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
-        },
-        {
-          "titulo": "Doing Time Doing Vipassana",
-          "url": "https://youtu.be/WkxSyv5R1sg?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
-        },
-        {
-          "titulo": "Super Alimentado - Açucar",
-          "url": "https://youtu.be/oRzFmxhZkQ0?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
-        },
-        {
-          "titulo": "Citizenfour (multi-lang!)",
-          "url": "https://youtu.be/EDhB-A23IUk?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
-        }
-      ]
+      "cor": "red"
     },
     {
+      "id": 6,
       "titulo": "Dicas de Estudo",
-      "cor": "#6b5be2",
-  
-      "videos": [
-        {
-          "titulo": "COMO ESTUDAR EM CASA PARA O ENEM",
-          "url": "https://youtu.be/rpaiAZQEuok"
-        },
-        {
-          "titulo": "5 dicas que FUNCIONAM para começar a estudar para o ENEM",
-          "url": "https://youtu.be/A9X-tHB7vyI"
-        },
-        {
-          "titulo": "Qual o segredo de passar em Medicina na USP?",
-          "url": "https://youtu.be/ozedlV260ds"
-        },
-        {
-          "titulo": "CRONOGRAMA DE ESTUDOS ENEM ",
-          "url": "https://youtu.be/Hjm9jmaWX3w"
-        },
-        {
-          "titulo": "COMO ORGANIZAR OS ESTUDOS ",
-          "url": "https://youtu.be/utELo4oEHjo"
-        }
-      ]
+      "cor": "#6b5be2"
+    }
+  ],
+  "videos": [
+    {
+      "id": 1,
+      "categoriaId": 1,
+      "titulo": "Como Escrever Redação modelo Enem",
+      "url": "https://youtu.be/PYGzF4b0Kbk"
+    },
+    {
+      "id": 2,
+      "categoriaId": 1,
+      "titulo": "TEMAS PARA A REDAÇÃO DO ENEM 2020!",
+      "url": "https://youtu.be/cQpY6GQe2a4"
+    },
+    {
+      "id": 3,
+      "categoriaId": 1,
+      "titulo": "COMO ESCREVER A REDAÇÃO PERFEITA NO ENEM?",
+      "url": "https://youtu.be/kx_r8NXD6GA"
+    },
+    {
+      "id": 4,
+      "categoriaId": 1,
+      "titulo": "ALUSÕES HISTÓRICAS PARA TODOS OS TEMAS DE REDAÇÃO!",
+      "url": "https://youtu.be/jDIfwLJEOXI"
+    },
+    {
+      "id": 5,
+      "categoriaId": 1,
+      "titulo": "Análise de uma redação nota 1000 do ENEM 2017 ",
+      "url": "https://youtu.be/FICygh6K7o8"
+    },
+    {
+      "id": 6,
+      "categoriaId": 1,
+      "titulo": "O CORRETOR SINCERÃO | Organize a Argumentação ",
+      "url": "https://youtu.be/dmEwxfX5XEA"
+    },
+    {
+      "id": 7,
+      "categoriaId": 1,
+      "titulo": "FRASES PRONTAS E FORMAS DE COMEÇAR A SUA REDAÇÃO",
+      "url": "https://youtu.be/JtkZCq-uhBs"
+    },
+    {
+      "id": 8,
+      "categoriaId": 2,
+      "titulo": "O QUE MAIS CAI EM MATEMÁTICA NO ENEM?",
+      "url": "https://youtu.be/myS0xE4XMJc"
+    },
+    {
+      "id": 9,
+      "categoriaId": 2,
+      "titulo": "Como acertar MAIS QUESTÕES DE MATEMÁTICA no Enem?",
+      "url": "https://youtu.be/kx_kRtRogfs"
+    },
+    {
+      "id": 10,
+      "categoriaId": 2,
+      "titulo": "COMO ESTUDAR EXATAS PARA O ENEM",
+      "url": "https://youtu.be/E8DHj2RZX1w"
+    },
+    {
+      "id": 11,
+      "categoriaId": 2,
+      "titulo": "MACETES para o ENEM de EXATAS: Matemática",
+      "url": "https://youtu.be/T9zU-M5erQQ"
+    },
+    {
+      "id": 12,
+      "categoriaId": 2,
+      "titulo": "RESOLVENDO MATEMÁTICA DO ENEM 2018",
+      "url": "https://youtu.be/kqERtmuoZWg"
+    },
+    {
+      "id": 13,
+      "categoriaId": 3,
+      "titulo": "Dicas para estudar CIÊNCIAS DA NATUREZA",
+      "url": "https://youtu.be/VlCOFHZ7Y-0"
+    },
+    {
+      "id": 14,
+      "categoriaId": 3,
+      "titulo": "AS DOENÇAS QUE MAIS CAEM NO ENEM",
+      "url": "https://youtu.be/nc2Z5e85x7o"
+    },
+    {
+      "id": 15,
+      "categoriaId": 3,
+      "titulo": "ECOLOGIA: CADEIA ALIMENTAR, BIOMAS E RELAÇÕES ECOLÓGICAS ",
+      "url": "https://youtu.be/TsclSi3nNsI"
+    },
+    {
+      "id": 16,
+      "categoriaId": 3,
+      "titulo": "RESUMÃO DA ECOLOGIA",
+      "url": "https://youtu.be/DRtI_j5cPvQ"
+    },
+    {
+      "id": 17,
+      "categoriaId": 4,
+      "titulo": "Como VOCÊ deve estudar HUMANAS para o ENEM ",
+      "url": "https://youtu.be/EbtdVtEmgBQ"
+    },
+    {
+      "id": 18,
+      "categoriaId": 4,
+      "titulo": "VEJA ESSE VÍDEO ANTES DA PROVA DE HUMANAS DO ENEM",
+      "url": "https://youtu.be/VG9xVK6pM5o"
+    },
+    {
+      "id": 19,
+      "categoriaId": 4,
+      "titulo": "REVISÃO ENEM | FILOSOFIA E SOCIOLOGIA: MOVIMENTOS SOCIAIS",
+      "url": "https://youtu.be/nu505BvywsU"
+    },
+    {
+      "id": 20,
+      "categoriaId": 4,
+      "titulo": "REVISÃO COMPLETA PARA O ENEM 2020",
+      "url": "https://youtu.be/ka2w_C8rJfQ"
+    },
+    {
+      "id": 21,
+      "categoriaId": 5,
+      "titulo": "Food Inc.",
+      "url": "https://youtu.be/smk2xq2l3Ig?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
+    },
+    {
+      "id": 22,
+      "categoriaId": 5,
+      "titulo": "Obsolescência Programada - The Light bulb Conspiracy",
+      "url": "https://youtu.be/H7EUyuNNaCU?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
+    },
+    {
+      "id": 23,
+      "categoriaId": 5,
+      "titulo": "Doing Time Doing Vipassana",
+      "url": "https://youtu.be/WkxSyv5R1sg?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
+    },
+    {
+      "id": 24,
+      "categoriaId": 5,
+      "titulo": "Citizenfour (multi-lang!)",
+      "url": "https://youtu.be/EDhB-A23IUk?list=PLv9QVp5j6yMaCkg_0uUm0HHNDo2ypcQ_c"
+    },
+    {
+      "id": 25,
+      "categoriaId": 6,
+      "titulo": "COMO ESTUDAR EM CASA PARA O ENEM",
+      "url": "https://youtu.be/rpaiAZQEuok"
+    },
+    {
+      "id": 26,
+      "categoriaId": 6,
+      "titulo": "5 dicas que FUNCIONAM para começar a estudar para o ENEM",
+      "url": "https://youtu.be/A9X-tHB7vyI"
+    },
+    {
+      "id": 27,
+      "categoriaId": 6,
+      "titulo": "Qual o segredo de passar em Medicina na USP?",
+      "url": "https://youtu.be/ozedlV260ds"
+    },
+    {
+      "id": 28,
+      "categoriaId": 6,
+      "titulo": "CRONOGRAMA DE ESTUDOS ENEM",
+      "url": "https://youtu.be/Hjm9jmaWX3w"
+    },
+    {
+      "id": 29,
+      "categoriaId": 6,
+      "titulo": "COMO ORGANIZAR OS ESTUDOS",
+      "url": "https://youtu.be/utELo4oEHjo"
+    },
+    {
+      "titulo": "QUESTÃO 161 (PROVA AMARELA) - Matemática ENEM 2019: Geometria Espacial Luminárias",
+      "url": "https://youtu.be/wRpWvTMxgqw",
+      "categoriaId": 2,
+      "id": 30
+    },
+    {
+      "titulo": "",
+      "url": "",
+      "categoriaId": 1,
+      "id": 31
     }
   ]
 }
