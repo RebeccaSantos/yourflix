@@ -1,4 +1,4 @@
-/* eslint-disable linebreak-style */
+
 import React, { useState,useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import PageDefault from '../../../componentes/PageDefault';
@@ -20,7 +20,7 @@ import Button from '../../../componentes/button';
     useEffect(() => {
     const URL_TOP = window.location.hostname.includes('localhost')
     ? 'http://localhost:8080/categorias'
-    : 'https://https://enemflixapp.herokuapp.com/categorias';
+    : 'https://enemflixapp.herokuapp.com/categorias';
 
       fetch(URL_TOP)
         .then(async (respostaDoServidor) => {
@@ -30,23 +30,7 @@ import Button from '../../../componentes/button';
           ]);
         });
   
-      // setTimeout(() => {
-      //   setCategorias([
-      //     ...categorias,
-      //     {
-      //       id: 1,
-      //       nome: 'Front End',
-      //       descricao: 'Uma categoria bacanudassa',
-      //       cor: '#cbd1ff',
-      //     },
-      //     {
-      //       id: 2,
-      //       nome: 'Back End',
-      //       descricao: 'Outra categoria bacanudassa',
-      //       cor: '#cbd1ff',
-      //     },
-      //   ]);
-      // }, 4 * 1000);
+
     }, []);
   
     return (

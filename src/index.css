@@ -12,7 +12,7 @@
   --grayLight: #FFFAFA;
   --grayMedium: #ECEFF0; 
   --white: #FFFFFF;
-  --primary: var(--red);
+  --primary: var(--blue);
   --secondary: var(--gray);
 }
 
